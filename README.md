@@ -3,6 +3,9 @@
 
 This repository contains the code implementation of our paper: **"A Universal Black-box Adversarial Attack Against Natural Language Understanding with Reinforcement Learning."**
 
+> 🐍 **Python Version Requirement:**  
+> This project requires **Python 3.11.4 or higher**.
+
 ### 🔗 Trained Attack Model  
 You can download the pre-trained attack model from the following link:  
 [**Google Drive - Trained Models**](https://drive.google.com/drive/folders/1j-jnf_wmWw6Mgus_SZTjfi-qrgTU8Ce5?usp=sharing)
